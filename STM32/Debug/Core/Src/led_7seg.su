@@ -1,0 +1,7 @@
+led_7seg.c:5:6:display7SEG	16	static
+led_7seg.c:102:6:update7SEG	16	static
+led_7seg.c:133:6:reset_7seg_counter	4	static
+led_7seg.c:139:6:update_7seg_counter	4	static
+led_7seg.c:145:6:update_auto_buffer	4	static
+led_7seg.c:154:6:update_modify_buffer	4	static
+led_7seg.c:166:6:led_7seg_run	8	static
